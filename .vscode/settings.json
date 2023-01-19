@@ -4,6 +4,7 @@
         "stdio.h": "c",
         "functional": "c",
         "*.tcc": "c",
-        "future": "c"
+        "future": "c",
+        "ostream": "cpp"
     }
 }
